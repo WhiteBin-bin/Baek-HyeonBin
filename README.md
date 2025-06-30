@@ -64,7 +64,7 @@
   ## 🤔 Code States
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=WhiteBin-bin&show_icons=true&theme=default" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteBin-bin&hide=Python,Cython,C,C%2B%2B,Tex,jinja,xslt,powershell,assembly&layout=compact&card_width=480" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteBin-bin&hide=Python,Cython,C,C%2B%2B,Tex,jinja,xslt,powershell,assembly&layout=compact&card_width=300" height="180"/>
   </div>
 
 </div>
